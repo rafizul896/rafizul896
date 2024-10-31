@@ -10,7 +10,7 @@
 
 <br />
 <p align="center">
-  <img src="[https://streak-stats.demolab.com?user=rafizul896&theme=dark-minimalist&hide_border=false&hide_current_streak=false&hide_longest_streak=false]" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=rafizul896&theme=dark-minimalist&hide_border=false&hide_current_streak=false&hide_longest_streak=false" alt="GitHub Streak" />
 </p>
 
 ## :computer: Familiar Tech
