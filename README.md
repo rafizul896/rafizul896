@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.ibb.co/GvRk2YQL/github-banner.jpg" alt="github-banner" style="width:100%; height:auto;"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm MD RAFIZUL ISLAM RAFIZ</h1>
 
 <p align="center">
