@@ -19,7 +19,7 @@
 - 🔭 I’m currently exploring **Docker**
 - 👨‍💻 Most of my projects are available on [GitHub](https://github.com/rafizul896?tab=repositories)
 - 📝 I ~~regularly~~ write articles on [my blog](https://rafizulislamrafiz.vercel.app/blogs)
-- 📙 Check out my [Resume](https://drive.google.com/file/d/1SwVjOnHxuKzkdoezaVhDzHOJOUtrA5YO/view)
+- 📙 Check out my [Resume](https://drive.google.com/file/d/1l7j3znrS1l9nVNfrGhIfSGHELVLcwrud/view?usp=sharing)
 - 📫 Reach me at **rafizulislam899@gmail.com**
 - 🌐 Connect with me:
   
