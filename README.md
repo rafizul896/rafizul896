@@ -16,7 +16,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 
-- 🔭 I’m currently exploring **Linux & Docker**
+- 🔭 I’m currently exploring **Docker**
 - 👨‍💻 Most of my projects are available on [GitHub](https://github.com/rafizul896?tab=repositories)
 - 📝 I ~~regularly~~ write articles on [my blog](https://rafizulislamrafiz.vercel.app/blogs)
 - 📙 Check out my [Resume](https://drive.google.com/file/d/1l7j3znrS1l9nVNfrGhIfSGHELVLcwrud/view?usp=sharing)
