@@ -20,7 +20,7 @@
 - 👨‍💻 Most of my projects are available on [GitHub](https://github.com/rafizul896?tab=repositories)
 - 📝 I ~~regularly~~ write articles on [my blog](https://rafizulislamrafiz.vercel.app/blogs)
 - 📙 Check out my [Resume](https://drive.google.com/file/d/1l7j3znrS1l9nVNfrGhIfSGHELVLcwrud/view?usp=sharing)
-- 📫 Reach me at **rafizulislam899@gmail.com**
+- 📫 Reach me at **rafizulislam896@gmail.com**
 - 🌐 Connect with me:
   
   <a href="https://web.facebook.com/rafizulislam.rafiz.3" target="_blank">
