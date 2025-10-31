@@ -23,10 +23,6 @@
 - 📫 Reach me at **rafizulislam899@gmail.com**
 - 🌐 Connect with me:
   
-  <a href="https://web.facebook.com/rafizulislam.rafiz.3" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/facebook.png" width="30" style="margin-right: 20px;" />
-  </a>
-  
   <a href="https://www.linkedin.com/in/rafizulislam/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30" />
   </a>
